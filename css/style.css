@@ -267,7 +267,7 @@ ul {
 	font-size: 16px;
 	line-height: 32px;
 	color: #000;
-	max-width: 888px;
+	padding-right: 23%;
 }
 
 /* ME */
@@ -287,7 +287,8 @@ ul {
 }
 
 .services-list-item {
-	width: 573px;
+	width: 49%;
+
 }
 
 .services-list-card-link {
@@ -319,7 +320,7 @@ ul {
 
 .services-list-card-icon {
 	display: block;
-	width: 573px;
+	
 	height: 165px;
 	background-repeat: no-repeat;
 }
@@ -362,7 +363,7 @@ ul {
 }
 
 .advantage-list-item {
-	min-width: 276px;
+	flex-grow: 1;
 	margin-right: 22px;
 	margin-bottom: 22px;
 }
