@@ -536,3 +536,165 @@ ul {
 }
 
 /* Home */
+
+/* Contact */
+
+.contact {
+	padding-top: 70px;
+	padding-bottom: 40px;
+}
+
+.contact-block {
+	display: flex;
+	background-color: #fff;
+	border-radius: 15px;
+	justify-content: space-between;
+}
+
+.contact-block-img {
+	margin-top: 45px;
+	margin-bottom: 45px;
+	margin-right: 45px;
+}
+
+.contact-table {
+	margin-left: 45px;
+	display: flex;
+	margin-top: 45px;
+}
+
+.contact-item {
+	padding-right: 47px;
+	padding-bottom: 46px;
+	border-bottom: 1px solid #E9E9E9;
+	padding-top: 25px;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 20px;
+	color: #000;
+}
+
+.contact-email {
+	padding-bottom: 30px;
+}
+
+.contact-supitem {
+	font-size: 16px;
+	color: #000;
+	line-height: 24px;
+	padding-top: 23px;
+	padding-bottom: 23px;
+	border-bottom: 1px solid #E9E9E9;
+}
+
+.contact-tel {
+	color: #CC9933;
+}
+
+.contact-mail {
+	color: #999;
+}
+
+.email-item {
+	color: #CC9933;
+}
+
+.contact-btn {
+	color: #CC9933;
+	border-radius: 15px;
+	padding: 27px 29.5px;
+	background-color: transparent;
+	border: 1px solid #CC9933;
+	margin-left: 45px;
+	margin-top: 42px;
+}
+/* Contact */
+
+/* Footer */
+
+.footer {
+	padding-top: 40px;
+	margin-bottom: 30px;
+}
+
+.footer-flex {
+	display: flex;
+	background-color: #333;
+	border-radius: 15px;
+	background-image: url(../img/footer.svg);
+	background-repeat: no-repeat;
+	background-position: bottom right 176px;
+	justify-content: space-between;
+}
+
+.footer-info {
+	margin-top: 45px;
+	margin-left: 45px;
+}
+
+.footer-text {
+	line-height: 30.4px;
+	font-size: 16px;
+	color: #fff;
+	font-weight: 400;
+	display: block;
+	padding-bottom: 37px;
+}
+
+.footer-suptext {
+	line-height: 30.4px;
+	font-size: 16px;
+	color: #fff;
+	font-weight: 400;
+	display: block;
+	padding-bottom: 40px;
+}
+
+.footer-agreement {
+	color: #CC9933;
+	margin-bottom: 45px;
+}
+
+.footer-contact {
+	margin-top: 45px;
+	margin-right: 180px;
+}
+
+.footer-addres {
+	font-size: 16px;
+	line-height: 30px;
+	color: #fff;
+	margin-bottom: 15px;
+}
+
+.footer-phone {
+	font-size: 16px;
+	line-height: 24px;
+	color: #CC9933;
+}
+
+.footer-mail {
+	margin-top: 15px;
+}
+
+.footer-email {
+	color: #CC9933;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.footer-link {
+	margin-top: 45px;
+	margin-right: 45px;
+
+}
+
+.footer-link-img {
+	display: block;
+}
+
+.footer-link-img:not(:last-child) {
+	margin-bottom: 20px;
+}
+
+/* Footer */
